@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="nO_mXO8b4wZHz6yq38Yt">
-    <mxGraphModel dx="3241" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5633" dy="2229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,13 +8,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WayUUkhCflhqalgZyPR2-1" value="START" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-530" y="40" width="120" height="80" as="geometry" />
+          <mxGeometry x="-531" y="40" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WayUUkhCflhqalgZyPR2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WayUUkhCflhqalgZyPR2-2" target="WayUUkhCflhqalgZyPR2-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WayUUkhCflhqalgZyPR2-2" value="BAL" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="-530" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="-531" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WayUUkhCflhqalgZyPR2-7" value="TRUE" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WayUUkhCflhqalgZyPR2-4" target="WayUUkhCflhqalgZyPR2-6">
           <mxGeometry relative="1" as="geometry" />
@@ -28,19 +28,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WayUUkhCflhqalgZyPR2-4" value="&lt;span class=&quot;hljs-number&quot;&gt;90&lt;/span&gt;-&lt;span class=&quot;hljs-number&quot;&gt;100&lt;/span&gt; arasındadır" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-520" y="280" width="100" height="100" as="geometry" />
+          <mxGeometry x="-521" y="280" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="WayUUkhCflhqalgZyPR2-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WayUUkhCflhqalgZyPR2-6" target="WayUUkhCflhqalgZyPR2-128">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-780" y="330" />
-              <mxPoint x="-780" y="770" />
-              <mxPoint x="-512" y="770" />
+              <mxPoint x="-781" y="330" />
+              <mxPoint x="-781" y="770" />
+              <mxPoint x="-513" y="770" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WayUUkhCflhqalgZyPR2-6" value="Ekranda &quot;A&quot; yazisi gosterilir" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="-720" y="296.66" width="100" height="66.67" as="geometry" />
+          <mxGeometry x="-721" y="296.66" width="100" height="66.67" as="geometry" />
         </mxCell>
         <mxCell id="WayUUkhCflhqalgZyPR2-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WayUUkhCflhqalgZyPR2-8" target="WayUUkhCflhqalgZyPR2-12">
           <mxGeometry relative="1" as="geometry" />
@@ -59,19 +59,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WayUUkhCflhqalgZyPR2-8" value="&lt;span class=&quot;hljs-number&quot;&gt;80&lt;/span&gt;-89&amp;nbsp;&lt;div&gt;arasındadır&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-350" y="280" width="100" height="100" as="geometry" />
+          <mxGeometry x="-351" y="280" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="WayUUkhCflhqalgZyPR2-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WayUUkhCflhqalgZyPR2-12" target="WayUUkhCflhqalgZyPR2-128">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-20" y="330" />
-              <mxPoint x="-20" y="770" />
-              <mxPoint x="-428" y="770" />
+              <mxPoint x="-21" y="330" />
+              <mxPoint x="-21" y="770" />
+              <mxPoint x="-429" y="770" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WayUUkhCflhqalgZyPR2-12" value="Ekranda &quot;B&quot; yazisi gosterilir" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="296.66" width="100" height="66.67" as="geometry" />
+          <mxGeometry x="-181" y="296.66" width="100" height="66.67" as="geometry" />
         </mxCell>
         <mxCell id="WayUUkhCflhqalgZyPR2-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WayUUkhCflhqalgZyPR2-15" target="WayUUkhCflhqalgZyPR2-18">
           <mxGeometry relative="1" as="geometry" />
@@ -90,18 +90,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WayUUkhCflhqalgZyPR2-15" value="&lt;span class=&quot;hljs-number&quot;&gt;70&lt;/span&gt;-79&amp;nbsp;&lt;div&gt;arasındadır&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-520" y="420" width="100" height="100" as="geometry" />
+          <mxGeometry x="-521" y="420" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="WayUUkhCflhqalgZyPR2-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WayUUkhCflhqalgZyPR2-18" target="WayUUkhCflhqalgZyPR2-128">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-740" y="470" />
-              <mxPoint x="-740" y="838" />
+              <mxPoint x="-741" y="470" />
+              <mxPoint x="-741" y="838" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WayUUkhCflhqalgZyPR2-18" value="Ekranda &quot;C&quot; yazisi gosterilir" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="-720" y="436.66" width="100" height="66.67" as="geometry" />
+          <mxGeometry x="-721" y="436.66" width="100" height="66.67" as="geometry" />
         </mxCell>
         <mxCell id="WayUUkhCflhqalgZyPR2-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WayUUkhCflhqalgZyPR2-20" target="WayUUkhCflhqalgZyPR2-22">
           <mxGeometry relative="1" as="geometry" />
@@ -112,19 +112,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WayUUkhCflhqalgZyPR2-20" value="&lt;span class=&quot;hljs-number&quot;&gt;60&lt;/span&gt;-69&amp;nbsp;&lt;div&gt;arasındadır&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-350" y="420" width="100" height="100" as="geometry" />
+          <mxGeometry x="-351" y="420" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="WayUUkhCflhqalgZyPR2-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WayUUkhCflhqalgZyPR2-22" target="WayUUkhCflhqalgZyPR2-128">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-40" y="470" />
-              <mxPoint x="-40" y="840" />
-              <mxPoint x="-428" y="840" />
+              <mxPoint x="-41" y="470" />
+              <mxPoint x="-41" y="840" />
+              <mxPoint x="-429" y="840" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WayUUkhCflhqalgZyPR2-22" value="Ekranda &quot;D&quot; yazisi gosterilir" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="436.66000000000014" width="100" height="66.67" as="geometry" />
+          <mxGeometry x="-181" y="436.66000000000014" width="100" height="66.67" as="geometry" />
         </mxCell>
         <mxCell id="WayUUkhCflhqalgZyPR2-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WayUUkhCflhqalgZyPR2-27" target="WayUUkhCflhqalgZyPR2-34">
           <mxGeometry relative="1" as="geometry" />
@@ -143,7 +143,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WayUUkhCflhqalgZyPR2-27" value="&lt;span class=&quot;hljs-number&quot;&gt;50&lt;/span&gt;-59&amp;nbsp;&lt;div&gt;arasındadır&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-520" y="560" width="100" height="100" as="geometry" />
+          <mxGeometry x="-521" y="560" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="WayUUkhCflhqalgZyPR2-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WayUUkhCflhqalgZyPR2-20" target="WayUUkhCflhqalgZyPR2-27">
           <mxGeometry relative="1" as="geometry" />
@@ -156,13 +156,13 @@
         <mxCell id="WayUUkhCflhqalgZyPR2-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WayUUkhCflhqalgZyPR2-34" target="WayUUkhCflhqalgZyPR2-128">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-760" y="610" />
-              <mxPoint x="-760" y="810" />
+              <mxPoint x="-761" y="610" />
+              <mxPoint x="-761" y="810" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WayUUkhCflhqalgZyPR2-34" value="Ekranda &quot;E&quot; yazisi gosterilir" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="-720" y="576.6600000000001" width="100" height="66.67" as="geometry" />
+          <mxGeometry x="-721" y="576.6600000000001" width="100" height="66.67" as="geometry" />
         </mxCell>
         <mxCell id="WayUUkhCflhqalgZyPR2-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WayUUkhCflhqalgZyPR2-38" target="WayUUkhCflhqalgZyPR2-41">
           <mxGeometry relative="1" as="geometry" />
@@ -173,25 +173,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WayUUkhCflhqalgZyPR2-38" value="&lt;span class=&quot;hljs-number&quot;&gt;0&lt;/span&gt;-50&amp;nbsp;&lt;div&gt;arasındadır&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-350" y="560" width="100" height="100" as="geometry" />
+          <mxGeometry x="-351" y="560" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="WayUUkhCflhqalgZyPR2-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WayUUkhCflhqalgZyPR2-41" target="WayUUkhCflhqalgZyPR2-128">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WayUUkhCflhqalgZyPR2-41" value="Ekranda &quot;F&quot; yazisi gosterilir" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="576.6600000000001" width="100" height="66.67" as="geometry" />
+          <mxGeometry x="-181" y="576.6600000000001" width="100" height="66.67" as="geometry" />
         </mxCell>
         <mxCell id="WayUUkhCflhqalgZyPR2-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WayUUkhCflhqalgZyPR2-44" target="WayUUkhCflhqalgZyPR2-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WayUUkhCflhqalgZyPR2-44" value="START" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="375" y="264.99" width="120" height="80" as="geometry" />
+          <mxGeometry x="374" y="264.99" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WayUUkhCflhqalgZyPR2-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WayUUkhCflhqalgZyPR2-45" target="WayUUkhCflhqalgZyPR2-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WayUUkhCflhqalgZyPR2-45" value="2 eded&amp;nbsp;&lt;div&gt;( a , b )&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="375" y="384.99" width="120" height="60" as="geometry" />
+          <mxGeometry x="374" y="384.99" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WayUUkhCflhqalgZyPR2-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WayUUkhCflhqalgZyPR2-47" target="WayUUkhCflhqalgZyPR2-50">
           <mxGeometry relative="1" as="geometry" />
@@ -210,19 +210,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WayUUkhCflhqalgZyPR2-47" value="a % 2 == 0&amp;nbsp;&lt;div&gt;&amp;amp;&amp;amp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;b % 2 ==0&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="375" y="474.99" width="120" height="120" as="geometry" />
+          <mxGeometry x="374" y="474.99" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WayUUkhCflhqalgZyPR2-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WayUUkhCflhqalgZyPR2-49" target="WayUUkhCflhqalgZyPR2-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WayUUkhCflhqalgZyPR2-49" value="a+b hesabla" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="175" y="614.99" width="120" height="80" as="geometry" />
+          <mxGeometry x="174" y="614.99" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WayUUkhCflhqalgZyPR2-50" value="&quot;daxil olunan ededler cut olmalidir!&quot;&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="555" y="614.99" width="120" height="80" as="geometry" />
+          <mxGeometry x="554" y="614.99" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WayUUkhCflhqalgZyPR2-55" value="END" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="375" y="794.99" width="120" height="80" as="geometry" />
+          <mxGeometry x="374" y="794.99" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WayUUkhCflhqalgZyPR2-57" value="START" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1300" y="324.99" width="120" height="80" as="geometry" />
@@ -390,7 +390,7 @@
           <mxGeometry x="208.57" y="2043" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WayUUkhCflhqalgZyPR2-128" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;END&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-530" y="770" width="120" height="80" as="geometry" />
+          <mxGeometry x="-531" y="770" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WayUUkhCflhqalgZyPR2-144" value="END" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1300" y="794.99" width="120" height="80" as="geometry" />
@@ -423,10 +423,10 @@
           <mxGeometry x="1115" y="1800" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WayUUkhCflhqalgZyPR2-158" value="&lt;ol style=&quot;white-space-collapse: break-spaces; margin-top: 4px; margin-right: 0px; margin-bottom: 0px; margin-left: calc(.4em + var(--totalCharacters)*0.6em); padding: 0px; border: 0px; font-family: &amp;quot;gg sans&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; vertical-align: baseline; list-style-position: outside; list-style-image: initial; --totalCharacters: 1;&quot; start=&quot;1&quot;&gt;&lt;li style=&quot;margin: 0px 0px 4px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;telebe balini daxil edir bu bala uygun, herf bali tapirsiniz.&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;span style=&quot;white-space-collapse: break-spaces; margin: 0px; padding: 0px; border: 0px; font-family: &amp;quot;gg sans&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; vertical-align: baseline; outline: 0px;&quot;&gt;&lt;font style=&quot;&quot; size=&quot;3&quot;&gt;(Meselen: 91 -&amp;gt; A, 75 -&amp;gt; C)&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-827.14" y="50" width="287.14" height="80" as="geometry" />
+          <mxGeometry x="-828.14" y="50" width="287.14" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WayUUkhCflhqalgZyPR2-159" value="&lt;ol start=&quot;2&quot; style=&quot;margin-top: 4px; margin-right: 0px; margin-bottom: 0px; margin-left: calc(.4em + var(--totalCharacters)*0.6em); padding: 0px; border: 0px; font-weight: 400; font-style: normal; font-family: &amp;quot;gg sans&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; vertical-align: baseline; list-style: outside decimal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: break-spaces; background-color: oklab(0.678888 0.00325716 -0.011175 / 0.0392157); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; --totalCharacters: 1;&quot;&gt;&lt;li style=&quot;margin: 0px 0px 4px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; white-space: break-spaces;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;2 eded daxil olunur, eger ededlerin her ikisi 2&#39;ye galiqsiz bolunurse,&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: 400; font-style: normal; font-family: &amp;quot;gg sans&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; vertical-align: baseline; outline: 0px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: break-spaces; background-color: oklab(0.678888 0.00325716 -0.011175 / 0.0392157); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;cemini tapirsiniz, eks halda ekrana &quot;daxil olunan ededler cut olmalidir!&quot; yazisini yazdirirsiniz.&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40.000000000000114" y="80" width="460" height="160" as="geometry" />
+          <mxGeometry x="39.000000000000114" y="80" width="460" height="160" as="geometry" />
         </mxCell>
         <mxCell id="WayUUkhCflhqalgZyPR2-160" value="&lt;ol start=&quot;3&quot; style=&quot;margin-top: 4px; margin-right: 0px; margin-bottom: 0px; margin-left: calc(.4em + var(--totalCharacters)*0.6em); padding: 0px; border: 0px; font-weight: 400; font-style: normal; font-family: &amp;quot;gg sans&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; vertical-align: baseline; list-style: outside decimal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: break-spaces; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; --totalCharacters: 1;&quot;&gt;&lt;li style=&quot;margin: 0px 0px 4px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; white-space: break-spaces;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;maas ve kredit deyerleri daxil olur. Eger istifadecinin daxil etdiyi kredit deyeri,&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: 400; font-style: normal; font-family: &amp;quot;gg sans&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; vertical-align: baseline; outline: 0px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: break-spaces; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;illik maasin 60%&#39;den azdirsa, ekrana &quot;Kredit goture bilmezsiniz!&quot;.&lt;br&gt;eks halda &quot;Kredit goture bilersiniz!&quot; yazdirirsiniz.&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="150" width="560" height="110" as="geometry" />
@@ -438,7 +438,7 @@
           <mxGeometry x="420" y="1190" width="380" height="150" as="geometry" />
         </mxCell>
         <mxCell id="WayUUkhCflhqalgZyPR2-164" value="&lt;ol start=&quot;5&quot; style=&quot;margin-top: 4px; margin-right: 0px; margin-bottom: 0px; margin-left: calc(.4em + var(--totalCharacters)*0.6em); padding: 0px; border: 0px; font-weight: 400; font-style: normal; font-family: &amp;quot;gg sans&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; vertical-align: baseline; list-style: outside decimal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: break-spaces; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; --totalCharacters: 1;&quot;&gt;&lt;li style=&quot;margin: 0px 0px 4px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; white-space: break-spaces;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;2 variable daxil olunur value&#39;larinin yerini deyishirsiniz.&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: 400; font-style: normal; font-family: &amp;quot;gg sans&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; vertical-align: baseline; outline: 0px; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: break-spaces; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 24px;&quot;&gt;(Mes: a = 5; b = 10 =&amp;gt; a =10; b = 5)&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="1150" width="410" height="200" as="geometry" />
+          <mxGeometry x="915" y="1296.67" width="605" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
