@@ -135,6 +135,49 @@
         <mxCell id="WayUUkhCflhqalgZyPR2-41" value="Ekranda &quot;F&quot; yazisi gosterilir" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="-180" y="576.6600000000001" width="100" height="66.67" as="geometry" />
         </mxCell>
+        <mxCell id="WayUUkhCflhqalgZyPR2-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WayUUkhCflhqalgZyPR2-44" target="WayUUkhCflhqalgZyPR2-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WayUUkhCflhqalgZyPR2-44" value="START" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="840" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WayUUkhCflhqalgZyPR2-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WayUUkhCflhqalgZyPR2-45" target="WayUUkhCflhqalgZyPR2-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WayUUkhCflhqalgZyPR2-45" value="2 eded&amp;nbsp;&lt;div&gt;( a , b )&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WayUUkhCflhqalgZyPR2-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WayUUkhCflhqalgZyPR2-47" target="WayUUkhCflhqalgZyPR2-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WayUUkhCflhqalgZyPR2-53" value="FALSE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WayUUkhCflhqalgZyPR2-51">
+          <mxGeometry x="-0.39" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WayUUkhCflhqalgZyPR2-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WayUUkhCflhqalgZyPR2-47" target="WayUUkhCflhqalgZyPR2-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WayUUkhCflhqalgZyPR2-54" value="TRUE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WayUUkhCflhqalgZyPR2-52">
+          <mxGeometry x="-0.4636" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WayUUkhCflhqalgZyPR2-47" value="a % 2 == 0&amp;nbsp;&lt;div&gt;&amp;amp;&amp;amp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;b % 2 ==0&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="1050" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WayUUkhCflhqalgZyPR2-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WayUUkhCflhqalgZyPR2-49" target="WayUUkhCflhqalgZyPR2-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WayUUkhCflhqalgZyPR2-49" value="a+b hesabla" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="1190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WayUUkhCflhqalgZyPR2-50" value="&quot;daxil olunan ededler cut olmalidir!&quot;&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="1190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WayUUkhCflhqalgZyPR2-55" value="END" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="1370" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
